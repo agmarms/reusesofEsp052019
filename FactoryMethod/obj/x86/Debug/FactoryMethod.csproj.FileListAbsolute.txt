@@ -1,0 +1,4 @@
+C:\workAG\reusesofEsp052019\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\workAG\reusesofEsp052019\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\workAG\reusesofEsp052019\FactoryMethod\obj\x86\Debug\FactoryMethod.exe
+C:\workAG\reusesofEsp052019\FactoryMethod\obj\x86\Debug\FactoryMethod.pdb
