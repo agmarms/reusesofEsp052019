@@ -1,0 +1,4 @@
+C:\workAG\reusesofEsp052019\ExercicioDecorator\bin\Debug\ExercicioDecorator.exe
+C:\workAG\reusesofEsp052019\ExercicioDecorator\bin\Debug\ExercicioDecorator.pdb
+C:\workAG\reusesofEsp052019\ExercicioDecorator\obj\x86\Debug\ExercicioDecorator.exe
+C:\workAG\reusesofEsp052019\ExercicioDecorator\obj\x86\Debug\ExercicioDecorator.pdb
