@@ -1,0 +1,4 @@
+C:\workAG\reusesofEsp052019\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\workAG\reusesofEsp052019\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\workAG\reusesofEsp052019\Strategy\Strategy\obj\x86\Debug\Strategy.exe
+C:\workAG\reusesofEsp052019\Strategy\Strategy\obj\x86\Debug\Strategy.pdb
